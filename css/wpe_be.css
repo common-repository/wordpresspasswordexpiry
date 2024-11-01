@@ -1,0 +1,79 @@
+
+/*WPE CSS STYLES*/
+
+#wdm_wpe_page
+{
+    width: 69%;
+}
+
+#wdm_wpe_page h2
+{
+    margin-left: 13px;
+}
+
+#wpe_form_content
+{
+    float:left;
+    width:42%;
+}
+
+#wdm_wpe_form
+{
+    padding: 10px 10px 0;
+    border-radius:3px
+}
+
+.wpe_ip_label
+{
+    color:#003333;
+    font-weight: bold;
+}
+
+#wpe_msg_ip
+{
+    /*width:220px;*/
+}
+
+.wpe_notify_msg
+{
+    color:#003366;
+}
+
+.wpe_err_msg
+{
+    color:#990000;
+}
+
+#wdm_wpe_notification
+{
+    float:left;
+    width:50%;
+    background-color:#FAFAD2;
+    padding:10px;
+    border-radius:3px;
+    margin-left: 20px;
+}
+
+#wpe_note_list
+{
+    list-style:square;
+    padding-left:15px;
+}
+
+.wpe_input_size
+{
+    width: 100%;
+}
+
+.wpe_exp_content
+{
+    border: 1px solid #69ABC5;
+    margin-bottom: 1px;
+    padding: 0 10px 10px;
+    background-color: #99CCFF;
+}
+
+#wpe_main_admin_text
+{
+    font-size: 10px;
+}

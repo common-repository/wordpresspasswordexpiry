@@ -1,0 +1,15 @@
+.wpe_req_link, .wpe_req_link:hover, .wpe_req_link:active, .wpe_req_link:focus
+{
+    background: transparent !important;
+    border: none !important;
+    padding: 0px !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    cursor: pointer !important;
+    font-size: inherit;
+}
+
+.wpe_req_link a, .wpe_req_link a:hover, .wpe_req_link a:active, .wpe_req_link a:focus
+{
+    font-weight: bold;
+}
